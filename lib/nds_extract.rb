@@ -56,5 +56,5 @@ end
   # Be sure to return the result at the end!
 puts array_name
 puts array_value
-result
+puts result
 end
