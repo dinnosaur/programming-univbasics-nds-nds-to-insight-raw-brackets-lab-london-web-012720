@@ -34,7 +34,7 @@ result ={}
 
 
 while index3 < array_name.length do
- 
+
 
 
 result.merge({:array_name[index3] => array_value[index3]})
