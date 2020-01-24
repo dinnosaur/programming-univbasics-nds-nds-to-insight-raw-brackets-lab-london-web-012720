@@ -34,7 +34,7 @@ result ={}
 
 
 while index3 < array_name.length do
- weird = {:array_name[index3]:} => array_value[index3]}
+ weird = {:array_name[index3]} => array_value[index3]}
 
 
 result.merge(weird)
