@@ -11,6 +11,7 @@ outer_index = 0
 
 array_name = []
 array_value =[]
+result =Hash.new
 
  while outer_index < directors_database.length do
           total = 0
@@ -28,7 +29,7 @@ outer_index += 1
 
 end
 index3 =0
-result ={}
+
 
 
 
