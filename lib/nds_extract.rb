@@ -38,7 +38,9 @@ while index3 < array_name.length do
 
 
 
-result= {"#{array_name[index3]}" => array_value[index3]}
+result << {"#{array_name[index3]}" => array_value[index3]}
+
+
 
 
 
